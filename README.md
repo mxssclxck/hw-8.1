@@ -1,4 +1,4 @@
-# Никоноров Денис - студен Нетологии FOPS-6
+# Никоноров Денис - Нетология FOPS-6
 
 ![alt text](https://github.com/mxssclxck/hw-8.1/blob/main/img/1.png)
 
