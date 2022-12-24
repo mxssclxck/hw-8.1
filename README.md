@@ -14,4 +14,8 @@
 
 ## Задание 2
 
+![alt text](https://github.com/mxssclxck/hw-8.1/blob/main/img/5.png)
+
+![alt text](https://github.com/mxssclxck/hw-8.1/blob/main/img/6.png)
+
 ## Задание 3
